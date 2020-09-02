@@ -4,12 +4,14 @@
 
 # For more colors, run: spectrum_ls
 
-local purple="%{$FG[008]%}"
-local green="%{$FG[002]%}"
-local blue="%{$FG[006]%}"
-local yellow="%{$FG[003]%}"
+local black="%{$FG[000]%}"
 local red="%{$FG[001]%}"
-local gray="%{$FG[014]%}"
+local green="%{$FG[002]%}"
+local yellow="%{$FG[003]%}"
+local blue="%{$FG[004]%}"
+local magenta="%{$FG[005]%}"
+local cyan="%{$FG[006]%}"
+local white="%{$FG[007]%}"
 
 local r="%{$reset_color%}"
 
@@ -22,21 +24,14 @@ local untracked="U"
 
 # Infos
 
-local user="%n"
 local dir="%2~"
-local user_formated="$blue⟨$r$purple$user$r$blue⟩$r"
 
-# ZSH_THEME_GIT_PROMPT_PREFIX="$purple($r$blue"
-# ZSH_THEME_GIT_PROMPT_SUFFIX="$r "
-# ZSH_THEME_GIT_PROMPT_DIRTY="$purple)$r$gray ❥$r"
-# ZSH_THEME_GIT_PROMPT_CLEAN="$purple)$r$blue ❤$r"
+# ----------------------------------------------------------------------------
 
-# -----------------------------------------------------------------------------
-
-ZSH_THEME_GIT_PROMPT_PREFIX="$purple on $r$blue"
+ZSH_THEME_GIT_PROMPT_PREFIX="$blue on $r$black"
 ZSH_THEME_GIT_PROMPT_SUFFIX="$r"
 ZSH_THEME_GIT_PROMPT_DIRTY=" "
-ZSH_THEME_GIT_PROMPT_CLEAN="$blue ❤$r"
+ZSH_THEME_GIT_PROMPT_CLEAN="$black ❤$r"
 
 # ----------------------------------------------------------------------------
 
@@ -52,6 +47,6 @@ ZSH_THEME_GIT_PROMPT_UNMERGED="$yellow$unmerged$r"
 ZSH_THEME_GIT_PROMPT_UNTRACKED="$yellow$untracked$r"
 
 PROMPT='\
-$blue➜ [$r\
-$purple$dir$r$blue]$r\
+$black [$r\
+$blue$dir$r$black]$r\
 $(git_prompt_info)$(git_prompt_status) '
