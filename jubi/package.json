@@ -1,0 +1,21 @@
+{
+    "name": "jubi",
+    "displayName": "Jubi",
+    "description": "Beautiful colors created by Julia Tretel!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jubi Colors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jubi Colors-color-theme.json"
+            }
+        ]
+    }
+}
