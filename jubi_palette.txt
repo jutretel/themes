@@ -1,0 +1,181 @@
+/* ------- MAIN COLORS ------- */
+
+/* Coolors Exported Palette - https://coolors.co/90a94b-6ebfc0-75a7d2-576ea6-11a8cd-a874ce-cf7b98-bc4f68-d39f4d */
+
+/* CSV */
+90a94b,6ebfc0,75a7d2,576ea6,11a8cd,a874ce,cf7b98,bc4f68,d39f4d
+
+/* Array */
+["90a94b","6ebfc0","75a7d2","576ea6","11a8cd","a874ce","cf7b98","bc4f68","d39f4d"]
+
+/* Object */
+{
+    "Middle Green Yellow": "90a94b",
+    "Maximum Blue Green": "6ebfc0",
+    "Iceberg": "75a7d2",
+    "Blue Yonder": "576ea6",
+    "Cerulean Crayola": "11a8cd",
+    "Amethyst": "a874ce",
+    "Puce": "cf7b98",
+    "Popstar": "bc4f68",
+    "Indian Yellow": "d39f4d"
+}
+
+/* Extended Array */
+[
+    {
+        "name": "Middle Green Yellow", 
+        "hex": "90a94b", "rgb": [144, 169, 75], "cmyk": [15, 0, 56, 34], "hsb": [76, 56, 66], "hsl": [76, 39, 48],"lab": [66, -23, 45]
+    },
+    {
+        "name": "Maximum Blue Green", 
+        "hex": "6ebfc0", "rgb": [110, 191, 192], "cmyk": [43, 1, 0, 25], "hsb": [181, 43, 75], "hsl": [181, 39, 59],"lab": [72, -24, -8]
+    },
+    {
+        "name": "Iceberg", 
+        "hex": "75a7d2", "rgb": [117, 167, 210 ],"cmyk": [44, 0, 0, 18], "hsb": [208, 44, 82],"hsl": [208, 51, 64],
+        "lab": [67, -5, -27]
+    },
+    {
+        "name": "Blue Yonder", 
+        "hex": "576ea6", "rgb": [87, 110, 166 ],"cmyk": [48, 4, 0, 35], "hsb": [223, 48, 65],"hsl": [223, 31, 50],
+        "lab": [47, 7, -33]
+    },
+    {
+        "name": "Cerulean Crayola", 
+        "hex": "11a8cd", "rgb": [17, 168, 205 ],"cmyk": [92, 8, 0, 20], "hsb": [192, 92, 80],"hsl": [192, 85, 44],
+        "lab": [64, -22, -29]
+    },
+    {
+        "name": "Amethyst", 
+        "hex": "a874ce", "rgb": [168, 116, 206 ],"cmyk": [18, 4, 0, 19], "hsb": [275, 44, 81],"hsl": [275, 48, 63],
+        "lab": [57, 37, -39]
+    },
+    {
+        "name": "Puce", 
+        "hex": "cf7b98", "rgb": [207, 123, 152 ],"cmyk": [0, 1, 27, 19], "hsb": [339, 41, 81],"hsl": [339, 47, 65],
+        "lab": [61, 36, -1]
+    },
+    {
+        "name": "Popstar", 
+        "hex": "bc4f68", "rgb": [188, 79, 104 ],"cmyk": [0, 8, 45, 26], "hsb": [346, 58, 74],"hsl": [346, 45, 52],
+        "lab": [49, 46, 8]
+    },
+    {
+        "name": "Indian Yellow", 
+        "hex": "d39f4d", "rgb": [211, 159, 77 ],"cmyk": [0, 5, 64, 17], "hsb": [37, 64, 83],"hsl": [37, 60, 56],
+        "lab": [69, 11, 49]
+    }
+]
+
+/* ------- GREY COLORS ------- */
+
+/* CSV */
+262b33,292e3a,2f343f,3a3f46,747c84,b8b8b8,c3d3de
+
+/* Array */
+["262b33","292e3a","2f343f","3a3f46","747c84","b8b8b8","c3d3de"]
+
+/* Object */
+{
+    "Gunmetal": "262b33",
+    "Gunmetal 2": "292e3a",
+    "Gunmetal 3": "2f343f",
+    "Onyx": "3a3f46",
+    "Slate Gray": "747c84",
+    "Gray X 11 Gray": "b8b8b8",
+    "Beau Blue": "c3d3de"
+}
+
+/* Extended Array */
+[
+    {
+        "name": "Gunmetal", 
+        "hex": "262b33", "rgb": [38, 43, 51], "cmyk": [25, 16, 0, 80], "hsb": [217, 25, 20], "hsl": [217, 15, 17], "lab": [17, 0, -6]
+    }, 
+    {
+        "name": "Gunmetal", 
+        "hex": "292e3a", "rgb": [41, 46, 58], "cmyk": [29, 21, 0, 77], "hsb": [222, 29, 23], "hsl": [222, 17, 19], "lab": [19, 1, -8]
+    }, 
+    {
+        "name": "Gunmetal", 
+        "hex": "2f343f", "rgb": [47, 52, 63], "cmyk": [25, 17, 0, 75], "hsb": [221, 25, 25], "hsl": [221, 15, 22], "lab": [22, 1, -8]
+    }, 
+    {
+        "name": "Onyx", 
+        "hex": "3a3f46", "rgb": [58, 63, 70], "cmyk": [17, 10, 0, 73], "hsb": [215, 17, 27], "hsl": [215, 9, 25], "lab": [26, 0, -5]
+    }, 
+    {
+        "name": "Slate Gray", 
+        "hex": "747c84", "rgb": [116, 124, 132], "cmyk": [12, 6, 0, 48], "hsb": [210, 12, 52], "hsl": [210, 6, 49], "lab": [52, -1, -5]
+    }, 
+    {
+        "name": "Gray X 11 Gray", 
+        "hex": "b8b8b8", "rgb": [184, 184, 184], "cmyk": [0, 0, 0, 28], "hsb": [0, 0, 72], "hsl": [0, 0, 72], "lab": [75, 0, 0]
+    }, 
+    {
+        "name": "Beau Blue", 
+        "hex": "c3d3de", "rgb": [195, 211, 222], "cmyk": [12, 5, 0, 13], "hsb": [204, 12, 87], "hsl": [204, 29, 82], "lab": [84, -3, -7]
+    }
+]
+
+/* ------- DARK COLORS ------- */
+
+/* CSV */
+63693f,528080,527192,4a5068,296374,7c4f8f,9a4e66,7a404c,8e683a
+
+/* Array */
+["63693f","528080","527192","4a5068","296374","7c4f8f","9a4e66","7a404c","8e683a"]
+
+/* Object */
+{
+    "Dark Olive Green": "63693f",
+    "Steel Teal": "528080",
+    "Queen Blue": "527192",
+    "Independence": "4a5068",
+    "Blue Sapphire": "296374",
+    "Razzmic Berry": "7c4f8f",
+    "China Rose": "9a4e66",
+    "Catawba": "7a404c",
+    "Coyote Brown": "8e683a"
+}
+
+/* Extended Array */
+[
+    {
+        "name": "Dark Olive Green",
+        "hex": "63693f", "rgb": [99, 105, 63], "cmyk": [6, 0, 40, 59], "hsb": [69, 40, 41], "hsl": [69, 25, 33], "lab": [43, -10, 23]
+    },
+    {
+        "name": "Steel Teal",
+        "hex": "528080", "rgb": [82, 128, 128], "cmyk": [36, 0, 0, 50], "hsb": [180, 36, 50], "hsl": [180, 22, 41], "lab": [50, -16, -5]
+    },
+    {
+        "name": "Queen Blue",
+        "hex": "527192", "rgb": [82, 113, 146], "cmyk": [44, 23, 0, 43], "hsb": [211, 44, 57], "hsl": [211, 28, 45], "lab": [47, -2, -21]
+    },
+    {
+        "name": "Independence",
+        "hex": "4a5068", "rgb": [74, 80,1 04], "cmyk": [29, 23, 0, 59], "hsb": [228, 29, 41], "hsl": [228, 17, 35], "lab": [34, 4, -15]
+    },
+    {
+        "name": "Blue Sapphire",
+        "hex": "296374", "rgb": [41, 99,1 16], "cmyk": [65, 15, 0, 55], "hsb": [194, 65, 45], "hsl": [194, 48, 31], "lab": [39, -13, -15]
+    },
+    {
+        "name": "Razzmic Berry",
+        "hex": "7c4f8f", "rgb": [124 ,79, 143], "cmyk": [13, 45, 0, 44], "hsb": [282, 45, 56], "hsl": [282, 29, 44], "lab": [41, 31, -28]
+    },
+    {
+        "name": "China Rose",
+        "hex": "9a4e66", "rgb": [154 ,78, 102], "cmyk": [0, 49, 34, 40], "hsb": [341, 49, 60], "hsl": [341, 33, 45], "lab": [43, 34, 1]
+    },
+    {
+        "name": "Catawba",
+        "hex": "7a404c", "rgb": [122 ,64, 76], "cmyk": [0, 48, 38, 52], "hsb": [348, 48, 48], "hsl": [348, 31, 36], "lab": [35, 27, 4]
+    },
+    {
+        "name": "Coyote Brown",
+        "hex": "8e683a", "rgb": [142 ,104 ,58], "cmyk": [0, 27, 59, 44], "hsb": [33, 59, 56], "hsl": [33, 42, 39], "lab": [47, 10, 32]
+    }
+]
