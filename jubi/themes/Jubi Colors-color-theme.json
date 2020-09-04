@@ -506,21 +506,21 @@
 		"editor.foreground": "#c3d3de",
 		"editor.background": "#1E232C",
 		"editorLineNumber.foreground": "#747c84",
-		// "editorLineNumber.activeForeground": "#ff0000",
-		// "editorCursor.background": "#ff0000",
-		// "editorCursor.foreground": "#ff0000",
+		// "editorLineNumber.activeForeground": "#747c84", // Didn't find what changed
+		"editorCursor.background": "#75a7d2",
+		"editorCursor.foreground": "#75a7d2",
 
 		// Selection colors are visible when selecting one or more characters. In addition to the selection also all regions with the same content are highlighted.
 
 		"editor.selectionForeground": "#c3d3de",
 		"editor.selectionBackground": "#3d618a",
-		// "editor.inactiveSelectionBackground": "#ff0000",
-		// "editor.selectionHighlightBackground": "#ff0000",
-		// "editor.selectionHighlightBorder": "#ff0000",
+		"editor.inactiveSelectionBackground": "#292e3a",
+		"editor.selectionHighlightBackground": "#292e3a",
+		// "editor.selectionHighlightBorder": "#3d618a", // Uncomment if you want borders
 
 		// Word highlight colors are visible when the cursor is inside a symbol or a word. Depending on the language support available for the file type, all matching references and declarations are highlighted and read and write accesses get different colors. If document symbol language support is not available, this falls back to word highlighting.
 
-		// "editor.wordHighlightBackground": "#ff0000",
+		"editor.wordHighlightBackground": "#292e3a",
 		// "editor.wordHighlightBorder": "#ff0000",
 		// "editor.wordHighlightStrongBackground": "#ff0000",
 		// "editor.wordHighlightStrongBorder": "#ff0000",
@@ -555,7 +555,7 @@
 		// The link color is visible when clicking on a link.
 		// Link
 
-		// "editorLink.activeForeground": "#ff0000",
+		"editorLink.activeForeground": "#6ebfc0",
 
 		// The range highlight is visible when selecting a search result.
 		// Range Highlight
