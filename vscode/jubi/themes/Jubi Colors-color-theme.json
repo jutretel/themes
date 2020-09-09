@@ -479,10 +479,10 @@
 		// #########################################################################################
 		// Welcome Page Colors - TO BE DEFINED
 		
-		// "welcomePage.background": "#ff0000",
-		// "welcomePage.buttonBackground": "#ff0000",
-		// "welcomePage.buttonHoverBackground": "#ff0000",
-		// "walkThrough.embeddedEditorBackground": "#ff0000",
+		"welcomePage.background": "#262b33",
+		"welcomePage.buttonBackground": "#262b33",
+		"welcomePage.buttonHoverBackground": "#1e232c",
+		"walkThrough.embeddedEditorBackground": "#262b33",
 		
 		// #########################################################################################
 		// Source Control - TO BE DEFINED
