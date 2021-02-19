@@ -1,10 +1,10 @@
 <scheme name="Jubi Colors" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-09-02T20:37:16</property>
+    <property name="created">2021-02-19T12:13:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-09-02T20:37:26</property>
+    <property name="modified">2021-02-19T12:13:34</property>
     <property name="originalScheme">Jubi Colors</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -247,14 +247,19 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="118fb3" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7587a6" />
+        <option name="FOREGROUND" value="576ea6" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="47bc9b" />
+        <option name="FOREGROUND" value="75a7d2" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -262,19 +267,14 @@
         <option name="FOREGROUND" value="cf6a4c" />
       </value>
     </option>
-    <option name="CONSOLE_GRAY_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="a7a7a7" />
-      </value>
-    </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="8f9d6a" />
+        <option name="FOREGROUND" value="90a94b" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="9b859d" />
+        <option name="FOREGROUND" value="bc4f68" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -292,7 +292,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cf6a4c" />
+        <option name="FOREGROUND" value="cf7b98" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -308,12 +308,12 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f8f8f0" />
+        <option name="FOREGROUND" value="c3d3de" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f9ee98" />
+        <option name="FOREGROUND" value="6ebfc0" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
